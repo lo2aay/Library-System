@@ -1,0 +1,17 @@
+C:\Users\MBR\source\repos\libraryApp\bin\Debug\libraryApp.exe.config
+C:\Users\MBR\source\repos\libraryApp\bin\Debug\libraryApp.exe
+C:\Users\MBR\source\repos\libraryApp\bin\Debug\libraryApp.pdb
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.csproj.AssemblyReference.cache
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.Form1.resources
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.Properties.Resources.resources
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.csproj.GenerateResource.cache
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.csproj.CoreCompileInputs.cache
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.exe
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.pdb
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.Form2.resources
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.Form3.resources
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.Form4.resources
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.Form5.resources
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.Form6.resources
+C:\Users\MBR\source\repos\libraryApp\obj\Debug\libraryApp.Form7.resources
